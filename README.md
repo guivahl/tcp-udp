@@ -1,18 +1,19 @@
 # Lower case to upper case converter (UDP socket)
+## Conversor de caixa baixa para caixa alta (socket UDP)
 
-**Course: Computer Networks <br>
-Prof. Guilherme Correa <br>
-Federal University of Pelotas (UFPEL) <br>
-May 2022 <br>
-Example of UDP application <br>
-Requirements: Python3**
+###### Course: Computer Networks
+###### Prof. Guilherme Correa
+###### Federal University of Pelotas (UFPEL)
+###### May 2022
+###### Example of UDP application
+###### Requirements: Python3
 
 
 Os códigos correspondem a uma aplicação cliente/servidor que utiliza o protocolo de transporte UDP para transferência de mensagens. A aplicação tem a seguinte função: o usuário digita uma frase em caixa baixa na aplicação cliente, que envia uma requisição ao servidor. O servidor, ao receber a frase em caixa baixa, faz a sua conversão para caixa alta (com o método upper) e envia a frase modificada ao cliente.
 
 Seguem as tarefas que devem ser realizadas com base nos códigos disponibilizados:
 
-1) Execute os dois códigos, de preferência em computadores separados, na sua rede local doméstica ou em uma rede virtual. Você pode usar dois computadores físicos ou duas máquinas virtuais e o software <a href="https://www.vpn.net/">Hamachi</a> para simular uma rede local. Algumas alterações poderão ser necessárias (por exemplo, substituir o 'hostname' pelo endereço IP do computador que vai rodar o código de servidor e o número de porta por um número de sua escolha, pré-combinado entre cliente e servidor).
+1) Execute os dois códigos, de preferência em computadores separados, na sua rede local doméstica ou em uma rede virtual. Você pode usar dois computadores físicos ou duas máquinas virtuais e o software [Hamachi](https://www.vpn.net/) para simular uma rede local. Algumas alterações poderão ser necessárias (por exemplo, substituir o 'hostname' pelo endereço IP do computador que vai rodar o código de servidor e o número de porta por um número de sua escolha, pré-combinado entre cliente e servidor).
 
 2) Depois de testar com UDP, faça modificações no código para que a aplicação funcione com o protocolo TCP.
 
