@@ -1,9 +1,8 @@
 # Lower case to upper case converter (UDP socket)
-Prof. Guilherme Correa
-Federal University of Pelotas (UFPEL)
-May 2022
-Requirement: Python3
 
+This is a simple example of UDP sockets usage based on Kurose & Ross[^1] exercises. The client sends a lower-case message to the server, which modifies it to upper case and sends back to the client.
+
+[^1]: [Computer Networking: A Top-Down Approach](https://www.amazon.com.br/Computer-Networking-Top-Down-Approach-7th/dp/0133594149)
 
 ## Para alunos de Redes de Computadores (UFPEL)
 
