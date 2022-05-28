@@ -1,15 +1,8 @@
 # Lower case to upper case converter (UDP socket)
 
-Course: Computer Networks
-
-Prof. Guilherme Correa
-
-Federal University of Pelotas (UFPEL)
-
-May 2022
-
-Example of UDP application
-
-Lower case to upper case converter (client side)
-
+Course: Computer Networks <br>
+Prof. Guilherme Correa <br>
+Federal University of Pelotas (UFPEL) <br>
+May 2022 <br>
+Example of UDP application <br>
 Requirements: Python3
