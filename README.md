@@ -1,2 +1,2 @@
 # upper-case-converter-udp
-upper case converter using UDP socket
+Lower case to upper case converter (UDP socket)
