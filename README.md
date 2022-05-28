@@ -1,13 +1,11 @@
 # Lower case to upper case converter (UDP socket)
-## Conversor de caixa baixa para caixa alta (socket UDP)
+Prof. Guilherme Correa
+Federal University of Pelotas (UFPEL)
+May 2022
+Requirement: Python3
 
-###### Course: Computer Networks
-###### Prof. Guilherme Correa
-###### Federal University of Pelotas (UFPEL)
-###### May 2022
-###### Example of UDP application
-###### Requirements: Python3
 
+## Para alunos de Redes de Computadores (UFPEL)
 
 Os códigos correspondem a uma aplicação cliente/servidor que utiliza o protocolo de transporte UDP para transferência de mensagens. A aplicação tem a seguinte função: o usuário digita uma frase em caixa baixa na aplicação cliente, que envia uma requisição ao servidor. O servidor, ao receber a frase em caixa baixa, faz a sua conversão para caixa alta (com o método upper) e envia a frase modificada ao cliente.
 
